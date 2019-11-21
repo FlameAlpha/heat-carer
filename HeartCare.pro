@@ -1,5 +1,4 @@
 #-------------------------------------------------
-#
 # Project created by Flame 2019-09-04
 # lastest version 3.0 , released by Flame on 4 Sep 2019
 # functional class:
@@ -7,7 +6,7 @@
 # * bluetooth socket <multithread>
 # * chart series template
 # * chart show view reedit
-# * handle sql <mysql> <influxdb ><multithread>
+# * handle sql <mysql> <influxdb> <multithread>
 # * verticalline
 # * csv writer
 # * AI report by used python API <multithread>
